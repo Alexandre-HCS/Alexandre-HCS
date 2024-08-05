@@ -1,3 +1,8 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre-HCS&show_icons=true&theme=dark)
+#### [How I'm going? 🤨 | Como estou indo? 🤨](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+#
+#
+#
 ![br](https://github.com/user-attachments/assets/472ad049-65ac-4d35-94ce-35aded1a9179)
 
 # De existência questionável apresentamos 🥁🥁🥁🥁... ALEXANDRE!!!
