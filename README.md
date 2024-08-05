@@ -1,5 +1,3 @@
-[![gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/holy.cow3728@gmail.com)
-
 ![br](https://github.com/user-attachments/assets/472ad049-65ac-4d35-94ce-35aded1a9179)
 
 # De existência questionável apresentamos 🥁🥁🥁🥁... ALEXANDRE!!!
