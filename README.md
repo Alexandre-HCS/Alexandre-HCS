@@ -1,6 +1,7 @@
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre-HCS&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexandre-HCS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="125" alt="languages graph"  />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-HCS&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="180" alt="activity-graph graph"  />
 #### How I'm going? 🤨 | Como estou indo? 🤨
 
